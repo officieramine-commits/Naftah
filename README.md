@@ -1,3 +1,6 @@
+@عن المطور الاصلي 
+@لنتحد  ونطور 
+@
 # Naftah Programming Language : Let's write programs in Tunisian/Arabic, like living in Naftah
 
 # نفطه: لغة برمجة، لنكتب برامج باللغة العربية وكأننا نعيش في نفطه
